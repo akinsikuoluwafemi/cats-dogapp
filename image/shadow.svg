@@ -1,0 +1,7 @@
+<svg viewBox="0 0 195 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="shadow">
+        
+        <g transform="translate(0 -.354)" fill="none" fill-rule="evenodd">
+          
+          <path d="M97.5 28c53.7 0 97.5-6.184 97.5-13.765C195 6.653 151.2.47 97.5.47 43.797.47 0 6.653 0 14.235 0 21.815 43.797 28 97.5 28" fill="#F0D000" mask="url(#b)"></path>
+        </g>
+      </svg>

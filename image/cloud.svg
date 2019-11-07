@@ -1,0 +1,23 @@
+<svg class="choosen-pet__cloud ng-trigger ng-trigger-zoomIn" xmlns:xlink="http://www.w3.org/1999/xlink" height="136px" version="1.1" viewBox="0 0 327 136" width="327px" xmlns="http://www.w3.org/2000/svg">
+    <defs class="ng-tns-c4-4">
+      <polygon class="ng-tns-c4-4" id="path-1" points="0.0006 0 326.528 0 326.528 103.605 0.0006 103.605"></polygon>
+    </defs>
+    <g class="ng-tns-c4-4" fill="none" fill-rule="evenodd" id="Homepage" stroke="none" stroke-width="1">
+      <g class="ng-tns-c4-4" id="desktop---dog-copy" transform="translate(-561.000000, -253.000000)">
+        <g class="ng-tns-c4-4" id="Group-6" transform="translate(561.000000, 253.000000)">
+          <path class="ng-tns-c4-4" d="M67.1654,36.309 C40.3224,44.981 25.5924,73.773 34.2654,100.616 C41.5024,123.017 62.7534,136.979 85.1884,135.946 C82.5004,132.883 80.3784,129.233 79.0464,125.108 C74.1014,109.805 81.7694,93.454 96.2984,87.291 L79.0694,33.969 C75.1064,34.267 71.1154,35.032 67.1654,36.309" fill="#FFFFFF" id="Fill-1"></path>
+          <g class="ng-tns-c4-4" id="Group-5">
+            <mask class="ng-tns-c4-4" fill="white" id="mask-2">
+              <use class="ng-tns-c4-4" xlink:href="#path-1"></use>
+            </mask>
+            <g class="ng-tns-c4-4" id="Clip-4"></g>
+            <path class="ng-tns-c4-4" d="M36.2796,0 L290.2476,0 C310.2026,0 326.5286,16.329 326.5286,36.282 L326.5286,67.323 C326.5286,87.277 310.2006,103.605 290.2476,103.605 L36.2796,103.605 C16.3286,103.605 0.0006,87.278 0.0006,67.323 L0.0006,36.282 C0.0006,16.327 16.3256,0 36.2796,0" fill="#FFFFFF" id="Fill-3" mask="url(#mask-2)"></path>
+          </g>
+          <text class="ng-tns-c4-4" fill="#000000" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="600" id="Tutorial-text-Copy" line-spacing="28">
+            <!---->
+            <!----><tspan x="80.64" y="59" class="ng-tns-c4-4 ng-star-inserted" style="">Woof! Woof! Arf!</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </svg>

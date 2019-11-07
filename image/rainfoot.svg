@@ -1,0 +1,10 @@
+<svg viewBox="0 0 66 45" xmlns="http://www.w3.org/2000/svg" id="rain-foot">
+        <g fill="none" fill-rule="evenodd">
+          <path d="M52.6 37.5H19.8v-8.6c0-5.1.8-8.3 7.3-8.3h5V7h20.5v30.5z" fill="#A0E021"></path>
+          <path d="M52.6 37.5H19.8v-8.6c0-5.1.8-8.3 7.3-8.3h5V7h20.5v30.5z" stroke="#A0E021" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path d="M19.8 31.2v-3.8H48v3.8H19.8z" fill="#10D114"></path>
+          <path d="M19.8 31.2v-3.8H48v3.8H19.8z" stroke="#10D114" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path fill="#000" fill-rule="nonzero" d="M13.7 37.5H18v-1.3h3.7v1.3h3.6v-1.3H29v1.3h3.7v-1.3h3.6v1.3H40v-1.3h3.7v1.3H48v-6.3H13.7z"></path>
+          <path stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M13.7 37.5H18v-1.3h3.7v1.3h3.6v-1.3H29v1.3h3.7v-1.3h3.6v1.3H40v-1.3h3.7v1.3H48v-6.3H13.7zM48 31.2H13.7v-2.3c0-5.1 2.4-10.1 8.8-10.1h3.8V7H48v24.2z"></path>
+        </g>
+      </svg>

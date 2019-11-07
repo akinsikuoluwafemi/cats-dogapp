@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.678" height="42.614" viewBox="0 0 44.678 42.614">
+  <g id="Group_2" data-name="Group 2" transform="translate(1.02 1.436)">
+    <line id="Line_3" data-name="Line 3" y2="22.371" transform="translate(22.721 20.572) rotate(89.026)" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_1" data-name="Line 1" x1="39.416" transform="translate(0 0.725) rotate(89.026)" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_2" data-name="Line 2" y1="22.371" transform="translate(22.368 0.335) rotate(89.026)" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_1" data-name="Path 1" d="M19.176,19.176,0,0" transform="translate(41.894 20.238) rotate(89.026)" fill="#b7e4c6" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_2" data-name="Path 2" d="M20.241,0,0,18.11" transform="translate(41.541) rotate(89.026)" fill="#b7e4c6" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_4" data-name="Path 4" d="M0,0" transform="matrix(-0.883, 0.469, -0.469, -0.883, 33.144, 24.059)" fill="#b7e4c6" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
