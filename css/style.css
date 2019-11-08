@@ -26,7 +26,10 @@ body {
 
 
 
-.container-three,.container-two,.container-one{
+.container-three,
+.container-two,.container-one,
+.container-dog-one,
+.container-dog-two{
         display: grid;
         height: 100%;
         grid-template-columns: repeat(6, 1fr);
@@ -50,6 +53,13 @@ body {
     display: none;
 }
 
+.container-dog-one {
+    display: none;
+}
+
+.container-dog-two {
+    /* display: none; */
+}
 
 
 .cat-text {
@@ -209,6 +219,116 @@ width: 10rem;
     cursor: pointer;
 }
 
-.wears-div:nth-child(3) {
-    background: pink;
+
+
+
+
+
+
+/*  */
+
+
+
+.another-box {
+    height: 15rem;
+    width: 40rem;
+    background: white;
+    grid-area: c;
+    grid-column: 4/5;
+    margin-right: 8rem;
+    margin-top: -5rem;
+    border-radius: 12%;
+}
+
+
+.arrows {
+    background: blue;
+    height: 3rem;
+    border-top-left-radius: 4rem;
+    border-top-right-radius: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.arrows > p {
+    color: white;
+    font-size: 2rem;
+}
+
+.sm {
+    height: 5rem;
+}
+
+.wears-container-cloth {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.wears-container-cloth > * {
+    margin-top: 3rem;
+}
+
+#alef,#arig {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.real-cat {
+    height: 25rem;
+}
+
+.xdog {
+    grid-area: p;
+    height: 20rem;
 }
