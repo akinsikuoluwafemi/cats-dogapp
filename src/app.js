@@ -170,6 +170,7 @@ leftArrow.addEventListener('click', function() {
     console.log('left');
 
     slideLeft();
+
 });
 
 // left arr click
@@ -181,7 +182,23 @@ leftArrow.addEventListener('click', function() {
     }
     console.log('left, weather');
     slideWeatherLeft();
+    
 });
+
+leftArrow.addEventListener('click', function(){
+    weather.forEach(el => {
+        // el.classList.add('left');
+    })
+    console.log('console')
+
+})
+
+rightArrow.addEventListener('click', function(){
+    weather.forEach(el => {
+        // el.classList.add('right');
+    })
+    console.log('console')
+})
 
 // left arr click
 leftArrow.addEventListener('click', function() {
